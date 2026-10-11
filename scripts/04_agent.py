@@ -51,7 +51,7 @@ def main():
         ask(graph, args.question)
         return
 
-    console.print("Fitness agent ready. Type a question, or 'quit' to stop.")
+    console.print("Car owner's manual assistant ready. Type a question about a feature, warning light, or maintenance item, or 'quit' to stop.")
     while True:
         question = console.input("\n[bold]You:[/bold] ").strip()
         if question.lower() in {"quit", "exit"}:

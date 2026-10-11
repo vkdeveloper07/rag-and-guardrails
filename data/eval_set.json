@@ -1,0 +1,107 @@
+[
+    {
+        "question": "What type of fuel should I use in my Kia vehicle?",
+        "relevant": {
+            "Kia_manual.pdf-p14-c0": 2
+        }
+    },
+    {
+        "question": "Can I modify my Kia vehicle after purchase?",
+        "relevant": {
+            "Kia_manual.pdf-p16-c0": 2
+        }
+    },
+    {
+        "question": "Where are the windshield wiper blades located on the front of my Kia?",
+        "relevant": {
+            "Kia_manual.pdf-p22-c0": 2
+        }
+    },
+    {
+        "question": "Where is the engine oil filler cap, brake fluid reservoir, and washer fluid reservoir?",
+        "relevant": {
+            "Kia_manual.pdf-p29-c0": 2
+        }
+    },
+    {
+        "question": "What are the recommended tire pressures and wheel sizes for my Kia?",
+        "relevant": {
+            "Kia_manual.pdf-p37-c0": 2
+        }
+    },
+    {
+        "question": "What happens when I press the remote lock button on my key?",
+        "relevant": {
+            "Kia_manual.pdf-p49-c1": 2
+        }
+    },
+    {
+        "question": "How far away does the remote key work from the vehicle?",
+        "relevant": {
+            "Kia_manual.pdf-p49-c0": 2
+        }
+    },
+    {
+        "question": "Where can I find the owner’s manual and what is it for?",
+        "relevant": {
+            "Kia_manual.pdf-p2-c0": 2
+        }
+    },
+    {
+        "question": "What should I know before using the remote key and door lock system?",
+        "relevant": {
+            "Kia_manual.pdf-p7-c0": 1,
+            "Kia_manual.pdf-p49-c1": 1
+        }
+    },
+    {
+        "question": "Where is the engine compartment overview that shows fluid locations?",
+        "relevant": {
+            "Kia_manual.pdf-p29-c0": 2
+        }
+    },
+    {
+        "question": "What should I know before driving in an emergency or when a warning situation occurs?",
+        "relevant": {
+            "Kia_manual.pdf-p9-c0": 1,
+            "Kia_manual.pdf-p49-c1": 1
+        }
+    },
+    {
+        "question": "What should I know about seat belt use and child restraint suitability?",
+        "relevant": {
+            "Kia_manual.pdf-p209-c0": 2,
+            "Kia_manual.pdf-p213-c1": 1
+        }
+    },
+    {
+        "question": "How should I use the seat belt when operating the relaxation comfort seat?",
+        "relevant": {
+            "Kia_manual.pdf-p118-c0": 2
+        }
+    },
+    {
+        "question": "What does the manual say about the infotainment system and software updates?",
+        "relevant": {
+            "Kia_manual.pdf-p228-c0": 2
+        }
+    },
+    {
+        "question": "What coolant should I use and when should it be replaced?",
+        "relevant": {
+            "Kia_manual.pdf-p359-c0": 2
+        }
+    },
+    {
+        "question": "What is the fuel requirement for the petrol engine in this model?",
+        "relevant": {
+            "Kia_manual.pdf-p14-c0": 2
+        }
+    },
+    {
+        "question": "Is it safe to modify the vehicle or change its performance?",
+        "relevant": {
+            "Kia_manual.pdf-p16-c0": 2
+        }
+    }
+]

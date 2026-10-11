@@ -9,9 +9,9 @@ from fitness_agent.rag.query_rewriter import rewrite_query
 from fitness_agent.rag.retriever import retrieve
 
 REFUSALS = {
-    "regex": "Sorry, I can't process that message. Please remove personal details or instructions to the assistant.",
-    "nlu": "Sorry, I can only help with safe fitness, exercise and nutrition questions.",
-    "output": "Sorry, I couldn't find a reliable answer to that in my fitness documents.",
+    "regex": "Sorry, I can't process that request. Please remove personal details or instructions that try to override the assistant.",
+    "nlu": "Sorry, I can only help with vehicle features, warning lights, maintenance, and owner’s manual questions.",
+    "output": "Sorry, I couldn't find a reliable answer to that in the vehicle manual or service documentation.",
 }
 
 

@@ -22,3 +22,4 @@ class RetrievedChunk:
     source: str
     page: int
     distance: float
+    id: str = ""
