@@ -10,7 +10,7 @@ from fitness_agent.config import settings
 from fitness_agent.guardrails.result import GuardrailResult
 
 GUARD_NAME = "nlu"
-ALLOWED_LABEL = "fitness"
+ALLOWED_LABEL = "manual"
 
 
 def load_training_data(path: Path) -> tuple[list[str], list[str]]:

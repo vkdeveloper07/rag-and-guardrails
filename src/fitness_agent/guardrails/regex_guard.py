@@ -14,6 +14,10 @@ BLOCKED_PATTERNS = {
         r"|jailbreak",
         re.IGNORECASE,
     ),
+    "vehicle safety bypass": re.compile(
+        r"(ignore|bypass|disable|override|silence|remove) (the |your )?(owner['’]s manual|manual|warning light|safety system|guardrails|airbag warning|oil pressure warning|brake warning|traction control|ABS|speed limit)",
+        re.IGNORECASE,
+    ),
     "email address": re.compile(r"\b[\w.+-]+@[\w-]+\.[\w.-]+\b"),
     "phone number": re.compile(r"(?<!\d)(\+?\d{1,3}[\s-]?)?\d{10}(?!\d)"),
     "card number": re.compile(r"(?<!\d)(\d{4}[\s-]?){3}\d{4}(?!\d)"),
